@@ -1,2 +1,3 @@
 # INFO6205
-This is the class repository for Program Structure and Algorithms
+This is the INFO6205 class repository. 
+Class: Program Structure and Algorithms
